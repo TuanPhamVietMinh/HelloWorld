@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UDEV.HelloWorld1;
+using System;
 
-
-public class Testing : MonoBehaviour 
+public class Bai_tap : MonoBehaviour 
 { 
+	/*
 	int a;
 	int b;
 	int c;
@@ -51,6 +52,7 @@ public class Testing : MonoBehaviour
 
 
 	}
+	*/
 }
 	
 
